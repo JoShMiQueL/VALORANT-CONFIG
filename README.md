@@ -1,3 +1,3 @@
 # VALORANT-CONFIG
 
-Files Path: %LOCALAPPDATA%\VALORANT\Saved\Config\[userid]
+Files Path: %LOCALAPPDATA%\VALORANT\Saved\Config\\[userid]
